@@ -1,0 +1,6 @@
+[workspace]
+members=[]
+resolver="2"
+license = "MPL-2.0"
+
+[workspace.dependencies]
