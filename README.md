@@ -1,10 +1,10 @@
-# @portal-solutions/wormhole
+# wormhole
 
 ## Description
-Project wormhole
+Project `wormhole`. Likely a data transfer or tunneling tool.
 
 ## Goals
-- [ ] Add project goals
+- [ ] TBD
 
 ## Progress
 - [ ] Initial setup
